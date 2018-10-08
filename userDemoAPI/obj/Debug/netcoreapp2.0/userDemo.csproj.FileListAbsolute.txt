@@ -1,0 +1,11 @@
+E:\Web\2-back-end\1-ASP.core\Project\userDemo\userDemoAPI\bin\Debug\netcoreapp2.0\userDemo.deps.json
+E:\Web\2-back-end\1-ASP.core\Project\userDemo\userDemoAPI\bin\Debug\netcoreapp2.0\userDemo.runtimeconfig.json
+E:\Web\2-back-end\1-ASP.core\Project\userDemo\userDemoAPI\bin\Debug\netcoreapp2.0\userDemo.runtimeconfig.dev.json
+E:\Web\2-back-end\1-ASP.core\Project\userDemo\userDemoAPI\bin\Debug\netcoreapp2.0\userDemo.dll
+E:\Web\2-back-end\1-ASP.core\Project\userDemo\userDemoAPI\bin\Debug\netcoreapp2.0\userDemo.pdb
+E:\Web\2-back-end\1-ASP.core\Project\userDemo\userDemoAPI\obj\Debug\netcoreapp2.0\userDemo.csprojAssemblyReference.cache
+E:\Web\2-back-end\1-ASP.core\Project\userDemo\userDemoAPI\obj\Debug\netcoreapp2.0\userDemo.csproj.CoreCompileInputs.cache
+E:\Web\2-back-end\1-ASP.core\Project\userDemo\userDemoAPI\obj\Debug\netcoreapp2.0\userDemo.AssemblyInfoInputs.cache
+E:\Web\2-back-end\1-ASP.core\Project\userDemo\userDemoAPI\obj\Debug\netcoreapp2.0\userDemo.AssemblyInfo.cs
+E:\Web\2-back-end\1-ASP.core\Project\userDemo\userDemoAPI\obj\Debug\netcoreapp2.0\userDemo.dll
+E:\Web\2-back-end\1-ASP.core\Project\userDemo\userDemoAPI\obj\Debug\netcoreapp2.0\userDemo.pdb

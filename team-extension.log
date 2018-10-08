@@ -1,0 +1,20 @@
+2018-10-08T17:26:04.345Z - info:   [09084] *** FOLDER: e:\Web\2-back-end\1-ASP.core\Project\userDemo ***
+2018-10-08T17:26:04.347Z - info:   [09084] VSTSVSCode/1.136.0 (VSCode 1.27.2; Windows_NT 10.0.16299; Node 8.9.3)
+2018-10-08T17:26:04.348Z - debug:  [09084] Looking for an External Context at e:\Web\2-back-end\1-ASP.core\Project\userDemo
+2018-10-08T17:26:04.348Z - debug:  [09084] No External Context at e:\Web\2-back-end\1-ASP.core\Project\userDemo
+2018-10-08T17:26:04.351Z - debug:  [09084] Looking for TFVC repository at e:\Web\2-back-end\1-ASP.core\Project\userDemo
+2018-10-08T17:26:04.352Z - debug:  [09084] TFVC Creating Tfvc object with localPath='undefined'
+2018-10-08T17:26:04.353Z - debug:  [09084] Using TFS proxy: 
+2018-10-08T17:26:04.353Z - debug:  [09084] TFVC Retrieved from settings; localPath=''
+2018-10-08T17:26:04.353Z - warn:   [09084] TFVC Couldn't find where the TF command lives on disk.
+2018-10-08T17:26:04.354Z - error:  [09084] The path to the TFVC command line (including filename) was not found in the user settings. Please set this value (tfvc.location) and try again.
+2018-10-08T17:29:14.733Z - info:   [19108] *** FOLDER: e:\Web\2-back-end\1-ASP.core\Project\userDemo ***
+2018-10-08T17:29:14.735Z - info:   [19108] VSTSVSCode/1.136.0 (VSCode 1.27.2; Windows_NT 10.0.16299; Node 8.9.3)
+2018-10-08T17:29:14.736Z - debug:  [19108] Looking for an External Context at e:\Web\2-back-end\1-ASP.core\Project\userDemo
+2018-10-08T17:29:14.736Z - debug:  [19108] No External Context at e:\Web\2-back-end\1-ASP.core\Project\userDemo
+2018-10-08T17:29:14.738Z - debug:  [19108] Looking for TFVC repository at e:\Web\2-back-end\1-ASP.core\Project\userDemo
+2018-10-08T17:29:14.739Z - debug:  [19108] TFVC Creating Tfvc object with localPath='undefined'
+2018-10-08T17:29:14.748Z - debug:  [19108] Using TFS proxy: 
+2018-10-08T17:29:14.748Z - debug:  [19108] TFVC Retrieved from settings; localPath=''
+2018-10-08T17:29:14.749Z - warn:   [19108] TFVC Couldn't find where the TF command lives on disk.
+2018-10-08T17:29:14.749Z - error:  [19108] The path to the TFVC command line (including filename) was not found in the user settings. Please set this value (tfvc.location) and try again.

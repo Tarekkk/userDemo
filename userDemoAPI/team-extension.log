@@ -1,0 +1,30 @@
+2018-10-08T11:13:18.559Z - info:   [15480] *** FOLDER: e:\Web\2-back-end\1-ASP.core\Project\userDemo\userDemoAPI ***
+2018-10-08T11:13:18.559Z - info:   [15480] VSTSVSCode/1.136.0 (VSCode 1.27.2; Windows_NT 10.0.16299; Node 8.9.3)
+2018-10-08T11:13:18.559Z - debug:  [15480] Looking for an External Context at e:\Web\2-back-end\1-ASP.core\Project\userDemo\userDemoAPI
+2018-10-08T11:13:18.567Z - debug:  [15480] No External Context at e:\Web\2-back-end\1-ASP.core\Project\userDemo\userDemoAPI
+2018-10-08T11:13:18.567Z - debug:  [15480] Looking for TFVC repository at e:\Web\2-back-end\1-ASP.core\Project\userDemo\userDemoAPI
+2018-10-08T11:13:18.567Z - debug:  [15480] TFVC Creating Tfvc object with localPath='undefined'
+2018-10-08T11:13:18.567Z - debug:  [15480] Using TFS proxy: 
+2018-10-08T11:13:18.567Z - debug:  [15480] TFVC Retrieved from settings; localPath=''
+2018-10-08T11:13:18.567Z - warn:   [15480] TFVC Couldn't find where the TF command lives on disk.
+2018-10-08T11:13:18.567Z - error:  [15480] The path to the TFVC command line (including filename) was not found in the user settings. Please set this value (tfvc.location) and try again.
+2018-10-08T15:05:31.797Z - info:   [16188] *** FOLDER: e:\Web\2-back-end\1-ASP.core\Project\userDemo\userDemoAPI ***
+2018-10-08T15:05:31.799Z - info:   [16188] VSTSVSCode/1.136.0 (VSCode 1.27.2; Windows_NT 10.0.16299; Node 8.9.3)
+2018-10-08T15:05:31.800Z - debug:  [16188] Looking for an External Context at e:\Web\2-back-end\1-ASP.core\Project\userDemo\userDemoAPI
+2018-10-08T15:05:31.800Z - debug:  [16188] No External Context at e:\Web\2-back-end\1-ASP.core\Project\userDemo\userDemoAPI
+2018-10-08T15:05:31.802Z - debug:  [16188] Looking for TFVC repository at e:\Web\2-back-end\1-ASP.core\Project\userDemo\userDemoAPI
+2018-10-08T15:05:31.803Z - debug:  [16188] TFVC Creating Tfvc object with localPath='undefined'
+2018-10-08T15:05:31.804Z - debug:  [16188] Using TFS proxy: 
+2018-10-08T15:05:31.804Z - debug:  [16188] TFVC Retrieved from settings; localPath=''
+2018-10-08T15:05:31.804Z - warn:   [16188] TFVC Couldn't find where the TF command lives on disk.
+2018-10-08T15:05:31.805Z - error:  [16188] The path to the TFVC command line (including filename) was not found in the user settings. Please set this value (tfvc.location) and try again.
+2018-10-08T16:07:49.922Z - info:   [16628] *** FOLDER: e:\Web\2-back-end\1-ASP.core\Project\userDemo\userDemoAPI ***
+2018-10-08T16:07:49.923Z - info:   [16628] VSTSVSCode/1.136.0 (VSCode 1.27.2; Windows_NT 10.0.16299; Node 8.9.3)
+2018-10-08T16:07:49.925Z - debug:  [16628] Looking for an External Context at e:\Web\2-back-end\1-ASP.core\Project\userDemo\userDemoAPI
+2018-10-08T16:07:49.926Z - debug:  [16628] No External Context at e:\Web\2-back-end\1-ASP.core\Project\userDemo\userDemoAPI
+2018-10-08T16:07:49.928Z - debug:  [16628] Looking for TFVC repository at e:\Web\2-back-end\1-ASP.core\Project\userDemo\userDemoAPI
+2018-10-08T16:07:49.929Z - debug:  [16628] TFVC Creating Tfvc object with localPath='undefined'
+2018-10-08T16:07:49.929Z - debug:  [16628] Using TFS proxy: 
+2018-10-08T16:07:49.929Z - debug:  [16628] TFVC Retrieved from settings; localPath=''
+2018-10-08T16:07:49.930Z - warn:   [16628] TFVC Couldn't find where the TF command lives on disk.
+2018-10-08T16:07:49.931Z - error:  [16628] The path to the TFVC command line (including filename) was not found in the user settings. Please set this value (tfvc.location) and try again.
