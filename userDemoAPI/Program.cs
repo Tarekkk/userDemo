@@ -7,6 +7,7 @@ using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
+using Queries.Persistence;
 
 namespace userDemo
 {
@@ -18,8 +19,9 @@ namespace userDemo
         }
 
         public static IWebHost BuildWebHost(string[] args) =>
-            WebHost.CreateDefaultBuilder(args)
-                .UseStartup<Startup>()
-                .Build();
+        WebHost.CreateDefaultBuilder(args)
+               .UseStartup<Startup>()
+               //.UseUrls("http://*:4443")
+               .Build();
     }
 }

@@ -3,4 +3,9 @@
   <PropertyGroup>
     <ActiveDebugProfile>IIS Express</ActiveDebugProfile>
   </PropertyGroup>
+  <PropertyGroup Condition=" '$(RunConfiguration)' == 'Default' ">
+    <StartAction>Project</StartAction>
+    <LaunchBrowser>false</LaunchBrowser>
+    <ApplicationURL>http://localhost:50405/</ApplicationURL>
+  </PropertyGroup>
 </Project>

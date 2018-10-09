@@ -18,5 +18,8 @@ namespace userDemo.Data.Core.Repositories
         
         void Remove(TEntity entity);
         void RemoveRange(IEnumerable<TEntity> entities);
+
+        //testing//
+        //void Update(TEntity entity);
     }
 }
